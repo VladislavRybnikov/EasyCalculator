@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\bin\Debug\EasyCalculator.exe.config
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\bin\Debug\EasyCalculator.exe
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\bin\Debug\EasyCalculator.pdb
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\obj\Debug\EasyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\obj\Debug\EasyCalculator.Form1.resources
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\obj\Debug\EasyCalculator.Properties.Resources.resources
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\obj\Debug\EasyCalculator.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\obj\Debug\EasyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\obj\Debug\EasyCalculator.exe
+C:\Users\user\source\repos\EasyCalculator\EasyCalculator\obj\Debug\EasyCalculator.pdb
